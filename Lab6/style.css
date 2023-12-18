@@ -1,0 +1,48 @@
+.bg-grey {
+    background-color: #eaecf0;
+}
+.bg-blue{
+   background-color: #1883b1;
+}
+.line{
+    margin:  auto;
+    background-color: #84dbff;
+    height: 4px;
+    width: 200px;
+    margin-top: 20px;
+
+}
+.text-blue {
+    color: #1883b1;
+}
+
+.technology .img-fluid {
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+}
+.kra{
+   height: 300px;
+}
+.logo{
+  height: 300px;
+}
+
+
+
+#map {
+    float: left;
+    width: 50%; /* Ширина карты будет 50% от ширины страницы */
+    height: 400px;
+  }
+form {
+    float: right;
+    width: 50%;  
+  }
+input[type="email"], input[type="text"] {
+    width: 80%; 
+    margin-bottom: 10px;
+  }
+textarea {
+    width: 80%; 
+  }
